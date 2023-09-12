@@ -1,7 +1,6 @@
 <h1 align= "center" >Sorteador</h1>
 
-<br>
-
+<p  align= "center">Funciona tanto para Desktop e Móbile</p>
 
 <h3 align= "center"> ⇓ Tecnologias utilizadas ⇓</h3>
 
@@ -28,5 +27,13 @@
 </div>
 
 
-<h2 align= "center"> Clique <a href="https://my-portfolio-michael.netlify.app/">aqui </a>  para conferir!</h2>
+
+
+<div display="flex"  align= "center">
+  
+![mobile](https://github.com/Michaeleduardoo/Sorteador-de-numeros/assets/106412874/8e5c2565-5834-4de2-b998-bead900443f9)
+
+</div>
+
+<h2 align= "center"><a href="https://number-drawer.netlify.app/">Você pode clicar aqui para verificar! </a></h2>
 
